@@ -1,5 +1,6 @@
 # 截图skill
 
+使用codex执行截图任务时，他总是乱截图，没有截到我们预期的窗口。
 可移植的 Codex `window-screenshot` skill，用于在 Windows 上枚举窗口、捕获指定窗口的完整边界，并检查截图是否正确。
 
 ## 功能
